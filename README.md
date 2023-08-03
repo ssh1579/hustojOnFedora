@@ -1,3 +1,16 @@
+# HUSTOJ on Fedora
+
+> 在 Fedora 上使用 HUSTOJ。
+> 此项目于 2023.8.2 创建，目的是为 Fedora 用户提供HUSTOJ 安装方案。
+> 目前，原始 HUSTOJ 支持以下平台：
+> Windows(XP);
+> Ubuntu(官方推荐);
+> CentOS;
+> Deepin/UOS;
+> Fedora(缺脚本)。
+> 作为一个 Fedora 用户，我的目标是补全 Fedora 脚本。
+> 以下是原始ReadMe：
+
 # HUSTOJ
 
 > 流行的OJ系统，跨平台、易安装、有题库。
